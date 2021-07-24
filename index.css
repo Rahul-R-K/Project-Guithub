@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+#image{
+    border-radius: 100%;
+    margin: 15px;
+}
+.name{
+    margin: 10px;
+}
+#table{
+    color: whitesmoke;
+    margin: 0px;
+}
+.heading{
+    margin: 30px;
+    font-size: 25px; font-weight: bold;
+}
