@@ -5,6 +5,7 @@ container.setAttribute("class", "container");
 let div=document.createElement('div');
 div.setAttribute("id","icon")
 let span1=document.createElement("span")
+span1.setAttribute("class","display-4")
 span1.innerHTML=`<h1>GUITHUB</h1>`
 let icon =document.createElement("img")
 icon.setAttribute("Class",`fa fa-github" aria-hidden="true"></i>`)
