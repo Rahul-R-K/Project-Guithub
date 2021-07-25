@@ -1,6 +1,9 @@
 body{
     background-color: black;
+    background-image: linear-gradient(rgb(58, 54, 54),black);
     color: aliceblue;
+    background-repeat: no-repeat;
+
 }
 #image{
     border-radius: 100%;
